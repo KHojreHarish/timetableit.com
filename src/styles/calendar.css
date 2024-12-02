@@ -1,0 +1,22 @@
+.rbc-today {
+  background-color: #fbfad4;
+}
+.rbc-now {
+  .rbc-button-link {
+    width: 2rem;
+    height: 2rem;
+    background-color: violet;
+    border-radius: 20px;
+  }
+}
+
+.rbc-event {
+  opacity: 60%;
+}
+rbc-event-content {
+  backdrop-filter: blur(10px) !important;
+}
+
+.rbc-addons-dnd-resize-ew-icon {
+  height: 90% !important;
+}
